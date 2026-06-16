@@ -203,7 +203,6 @@ def approve_or_reject(id):
         print("Error updating request:", e)
         return jsonify({"error": "Update failed"}), 500
 
-
 @app.route('/api/users', methods=['GET'])
 def list_users():
     return jsonify(fetch_all("SELECT id, name, email, role, created_at FROM users"))
