@@ -11,5 +11,4 @@ DB_CONFIG = {
     "database": os.getenv("DB_NAME", "bloodbank"),
     "port": int(os.getenv("DB_PORT", 3306)),
     "autocommit": True
-
 }
