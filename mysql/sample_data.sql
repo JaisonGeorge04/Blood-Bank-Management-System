@@ -11,4 +11,4 @@ INSERT INTO donors (user_id, blood_group, location, last_donation_date) VALUES
 
 -- Inventory
 INSERT INTO inventory (blood_group, units_available) VALUES
-('A+',10),('B+',5),('O-',2);
+('A+',10),('B+',5),('O-',2); 
