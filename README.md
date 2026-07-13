@@ -27,7 +27,7 @@ The entire application is containerized using Docker, ensuring consistent deploy
 CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI ArchitectureREST APIsContainerizationDockerAPI TestingPostmanVersion ControlGit & GitHub
 
 
-🏗️ System Architecture
+**🏗️ System Architecture**
 
 ┌─────────────┐      ┌──────────────┐      ┌───────────────┐
 │   Client /  │─────▶│  Flask REST  │─────▶│  MySQL         │
