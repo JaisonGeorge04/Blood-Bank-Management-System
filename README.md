@@ -115,7 +115,7 @@ All API endpoints were manually tested using Postman, covering:
  Add automated unit/integration tests (e.g., using Pytest)
 
 
-👤 Author
+**👤 Author**
 
 Jaison George
 📧 jaisongeorge699@gmail.com
