@@ -1,4 +1,4 @@
-🩸 Blood Bank Management System
+**🩸 Blood Bank Management System**
 
 A Dockerized Blood Bank Management System built with Flask and MySQL, designed to streamline donor registration, blood inventory tracking, and request processing through secure REST APIs.
 
