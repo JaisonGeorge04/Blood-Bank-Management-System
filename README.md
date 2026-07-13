@@ -3,14 +3,13 @@
 A Dockerized Blood Bank Management System built with Flask and MySQL, designed to streamline donor registration, blood inventory tracking, and request processing through secure REST APIs.
 
 
-📋 Overview
-
+**📋 Overview**
 The Blood Bank Management System is a full-stack backend application that digitizes and automates core blood bank operations. It supports donor registration, real-time blood inventory management, and request processing for hospitals/patients — with an automated shortage alert engine that flags low-stock blood groups before they become critical.
 
 The entire application is containerized using Docker, ensuring consistent deployment across environments, and all APIs were tested end-to-end using Postman.
 
 
-✨ Key Features
+**✨ Key Features**
 
 
 🩸 Donor Registration — Secure API endpoints to register and manage donor records
@@ -23,7 +22,7 @@ The entire application is containerized using Docker, ensuring consistent deploy
 
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI ArchitectureREST APIsContainerizationDockerAPI TestingPostmanVersion ControlGit & GitHub
 
