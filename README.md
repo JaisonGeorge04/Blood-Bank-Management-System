@@ -52,7 +52,6 @@ MethodEndpointDescriptionPOST/donorsRegister a new blood donorGET/donors/{id}Ret
 All endpoints were tested for both success and error scenarios (e.g., invalid blood group, duplicate donor registration) using Postman.
 
 
-
 🚀 Getting Started
 
 Prerequisites
