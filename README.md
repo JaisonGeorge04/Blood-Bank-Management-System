@@ -61,7 +61,7 @@ Docker & Docker Compose
 MySQL (or use the Dockerized MySQL service)
 
 
-Installation & Setup
+**Installation & Setup**
 
 bash# Clone the repository
 git clone https://github.com/<your-username>/blood-bank-management-system.git
