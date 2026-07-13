@@ -105,7 +105,7 @@ All API endpoints were manually tested using Postman, covering:
 🔒 Error handling and proper HTTP status codes
 
 
-📈 Future Enhancements
+**📈 Future Enhancements**
 
 
  Add JWT-based authentication for role-based API access
