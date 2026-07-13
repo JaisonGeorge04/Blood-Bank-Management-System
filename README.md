@@ -53,7 +53,6 @@ All endpoints were tested for both success and error scenarios (e.g., invalid bl
 
 
 
-
 🚀 Getting Started
 
 Prerequisites
@@ -71,7 +70,7 @@ git clone https://github.com/<your-username>/blood-bank-management-system.git
 cd blood-bank-management-system
 
 # Build and run using Docker
-docker build -t blood-bank-app .
+docker build -t blood-bank-app.
 docker run -p 5000:5000 blood-bank-app
 
 Environment Variables
@@ -106,7 +105,6 @@ All API endpoints were manually tested using Postman, covering:
 ✅ Successful request/response flows
 ⚠️ Edge cases (invalid inputs, duplicate records)
 🔒 Error handling and proper HTTP status codes
-
 
 
 📈 Future Enhancements
