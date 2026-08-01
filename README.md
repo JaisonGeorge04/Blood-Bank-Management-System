@@ -8,7 +8,6 @@ The Blood Bank Management System is a full-stack backend application that digiti
 
 The entire application is containerized using Docker, ensuring consistent deployment across environments, and all APIs were tested end-to-end using Postman.
 
-
 **✨ Key Features**
 
 
