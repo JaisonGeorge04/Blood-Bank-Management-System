@@ -59,7 +59,6 @@ Python 3.10+
 Docker & Docker Compose
 MySQL (or use the Dockerized MySQL service)
 
-
 **Installation & Setup**
 
 bash# Clone the repository
