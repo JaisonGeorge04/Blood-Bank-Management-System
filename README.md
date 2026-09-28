@@ -67,7 +67,7 @@ git clone https://github.com/<your-username>/blood-bank-management-system.git
 cd blood-bank-management-system
 
 # Build and run using Docker
-docker build -t blood-bank-app.
+docker build -t blood-bank-app
 docker run -p 5000:5000 blood-bank-app
 
 Environment Variables
