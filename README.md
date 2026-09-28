@@ -93,7 +93,6 @@ python app.py
 
 The API will be available at http://localhost:5000.
 
-
 🧪 Testing
 
 All API endpoints were manually tested using Postman, covering:
