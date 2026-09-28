@@ -20,7 +20,6 @@ The entire application is containerized using Docker, ensuring consistent deploy
 ✅ Tested REST APIs — All endpoints validated using Postman for reliability
 
 
-
 **🛠️ Tech Stack**
 
 CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI ArchitectureREST APIsContainerizationDockerAPI TestingPostmanVersion ControlGit & GitHub
