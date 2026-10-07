@@ -9,7 +9,6 @@ The entire application is containerized with Docker for consistent deployment ac
 
 **✨ Key Features**
 
-
 🩸 Donor Registration — Secure API endpoints to register and manage donor records
 📦 Blood Inventory Management — Real-time tracking of blood group stock levels
 🔔 Automated Shortage Alert Engine — Flags critical blood group shortages automatically
