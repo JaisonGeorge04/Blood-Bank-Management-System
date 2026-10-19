@@ -101,7 +101,6 @@ All API endpoints were manually tested using Postman, covering:
 
 **📈 Future Enhancements**
 
-
  Add JWT-based authentication for role-based API access
  Integrate email/SMS notifications for shortage alerts
  Add a front-end dashboard for hospital staff and administrators
