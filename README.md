@@ -22,7 +22,6 @@ The entire application is containerized with Docker for consistent deployment ac
 
 CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI ArchitectureREST APIsContainerizationDockerAPI TestingPostmanVersion ControlGit & GitHub
 
-
 **🏗️ System Architecture**
 
 ┌─────────────┐      ┌──────────────┐      ┌───────────────┐
@@ -38,8 +37,6 @@ CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI Architect
 
 The application follows a layered architecture — a Flask REST API layer handles incoming requests, interacts with a MySQL database for persistent storage, and an automated alert engine continuously monitors inventory levels to trigger shortage notifications.
 
-
-**📡 API Endpoints (Sample)**
 
 MethodEndpointDescriptionPOST/donorsRegister a new blood donorGET/donors/{id}Retrieve a specific donor's detailsGET/inventoryGet current blood inventory levelsPATCH/inventory/{blood_group}Update stock for a specific blood groupPOST/requestsSubmit a new blood requestGET/requests/{id}Check status of a blood request
 
