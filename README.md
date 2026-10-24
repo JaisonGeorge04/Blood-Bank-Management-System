@@ -37,7 +37,6 @@ CategoryTechnologyLanguagePythonBackend FrameworkFlaskDatabaseMySQLAPI Architect
 
 The application follows a layered architecture — a Flask REST API layer handles incoming requests, interacts with a MySQL database for persistent storage, and an automated alert engine continuously monitors inventory levels to trigger shortage notifications.
 
-
 MethodEndpointDescriptionPOST/donorsRegister a new blood donorGET/donors/{id}Retrieve a specific donor's detailsGET/inventoryGet current blood inventory levelsPATCH/inventory/{blood_group}Update stock for a specific blood groupPOST/requestsSubmit a new blood requestGET/requests/{id}Check status of a blood request
 
 We tested all endpoints for success and error scenarios (e.g., invalid blood group, duplicate donor registration) using Postman.
