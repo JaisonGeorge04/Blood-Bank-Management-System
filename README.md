@@ -40,7 +40,7 @@ The application follows a layered architecture — a Flask REST API layer handle
 
 MethodEndpointDescriptionPOST/donorsRegister a new blood donorGET/donors/{id}Retrieve a specific donor's detailsGET/inventoryGet current blood inventory levelsPATCH/inventory/{blood_group}Update stock for a specific blood groupPOST/requestsSubmit a new blood requestGET/requests/{id}Check status of a blood request
 
-All endpoints were tested for both success and error scenarios (e.g., invalid blood group, duplicate donor registration) using Postman.
+We tested all endpoints for success and error scenarios (e.g., invalid blood group, duplicate donor registration) using Postman.
 
 
 **🚀 Getting Started**
