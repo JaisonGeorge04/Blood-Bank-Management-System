@@ -91,7 +91,6 @@ All API endpoints were manually tested using Postman, covering:
 ⚠️ Edge cases (invalid inputs, duplicate records)
 🔒 Error handling and proper HTTP status codes
 
-
 **📈 Future Enhancements**
 
  Add JWT-based authentication for role-based API access
