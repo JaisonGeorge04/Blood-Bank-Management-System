@@ -86,7 +86,6 @@ The API will be available at http://localhost:5000.
 
 All API endpoints were manually tested using Postman, covering:
 
-
 ✅ Successful request/response flows
 ⚠️ Edge cases (invalid inputs, duplicate records)
 🔒 Error handling and proper HTTP status codes
