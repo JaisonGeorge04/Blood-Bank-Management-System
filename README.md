@@ -44,7 +44,6 @@ We tested all endpoints for success and error scenarios (e.g., invalid blood gro
 
 Prerequisites
 
-
 Python 3.10+
 Docker & Docker Compose
 MySQL (or use the Dockerized MySQL service)
