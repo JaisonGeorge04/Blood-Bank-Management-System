@@ -97,7 +97,6 @@ All API endpoints were manually tested using Postman, covering:
  Deploy to AWS with CI/CD automation via GitHub Actions
  Add automated unit/integration tests (e.g., using Pytest)
 
-
 **👤 Author**
 
 Jaison George
