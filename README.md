@@ -8,7 +8,7 @@ The Blood Bank Management System is a full-stack backend application that digiti
 The entire application is containerized with Docker for consistent deployment across environments, and I tested all APIs end-to-end in Postman.
  
 **✨ Key Features**
-
+ 
 🩸 Donor Registration — Secure API endpoints to register and manage donor records
 📦 Blood Inventory Management — Real-time tracking of blood group stock levels
 🔔 Automated Shortage Alert Engine — Flags critical blood group shortages automatically
